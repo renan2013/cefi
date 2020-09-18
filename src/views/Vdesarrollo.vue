@@ -13,7 +13,7 @@
           <span></span>
           <span></span>
           <span></span>
-          <span></span>
+          
         </div>
 
         <div class="container shape-container d-flex" id="contenido">
